@@ -1,0 +1,1 @@
+Bullies.App is an MAUI app for all platforms and a website to chat, dog trading with features to view things like vet visits & breeding lineages.

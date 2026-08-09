@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BulliesMAUI/BulliesMAUI.Shared/BulliesMAUI.Shared.csproj" Id="1a1782c4-e3d7-4543-bd5c-3a02ae482b29" />
+  <Project Path="BulliesMAUI/BulliesMAUI.Web/BulliesMAUI.Web.csproj" Id="7f41c8dc-b7e8-4397-9b24-fec7e41e12b4" />
+  <Project Path="BulliesMAUI/BulliesMAUI/BulliesMAUI.csproj" Id="a65ec16e-59c0-48f4-8cc6-9a36fbdb13ed">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
